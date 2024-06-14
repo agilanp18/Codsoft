@@ -1,0 +1,16 @@
+.features {
+    padding: 2rem;
+    background-color: #fff;
+}
+
+.feature-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.feature-item {
+    width: 30%;
+    padding: 1rem;
+    background-color: #f7f7f7;
+    text-align: center;
+}

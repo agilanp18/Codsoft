@@ -1,0 +1,12 @@
+.hero-section {
+    text-align: center;
+    padding: 2rem;
+    background-color: #f0f0f0;
+}
+
+.hero-section button {
+    padding: 0.5rem 1rem;
+    background-color: #61dafb;
+    border: none;
+    cursor: pointer;
+}
